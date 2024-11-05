@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Enter you name :"
+echo "Enter you name :" $name
 
 read $name
 
-echo "Enter Your Age :"
+echo "Enter Your Age :" $Age
 
 read $Age
 
