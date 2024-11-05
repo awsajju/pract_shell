@@ -3,7 +3,7 @@
 
 echo "Enter you name : " 
 
-read Name
+read name
 
 echo "Enter your age"
 
