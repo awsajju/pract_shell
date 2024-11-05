@@ -1,10 +1,10 @@
 #!/bin/bash
 
 
-echo "Enter you name : " 
+echo "Enter you name : $Name" 
 
-read 
+read $Name
 
-echo "My name is $NAME"
+echo "My name is $Name"
 
 
