@@ -1,13 +1,13 @@
 #!/bin/bash
 
 
-echo "Enter you name :" $Name
+echo "Enter you name :" 
 
-read $Name
+read $NAME
 
-echo "Enter Your Age :" $Age
+echo "Enter Your age :"
 
-read $Age
+read $AGE
 
-echo "Hello, $Name how old are you $Age"
+echo "Hello, $NAME how old are you $AGE"
 
