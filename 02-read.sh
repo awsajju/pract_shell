@@ -3,7 +3,7 @@
 
 echo "Enter you name : " 
 
-read $NAME
+read 
 
 echo "My name is $NAME"
 
