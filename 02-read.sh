@@ -1,15 +1,19 @@
 #!/bin/bash
 
 
-echo "Enter you name : $Name" 
+echo "Enter you name : " 
 
-read $Name
+read Name
 
-<<Ajay
+echo "Enter your age"
 
-echo "My name is " $Name
+read age
 
-Ajay
+
+echo "Hello, $name how old are u $age "
+
+
+
 
 
 
