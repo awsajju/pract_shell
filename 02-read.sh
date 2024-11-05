@@ -9,5 +9,5 @@ echo "Enter Your age :"
 
 read $AGE
 
-echo "Hello, $NAME how old are you $AGE"
+echo "Hello! $NAME, how old are you $AGE"
 
