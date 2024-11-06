@@ -1,8 +1,7 @@
 #!/bin/bash
 
-num=$1
 
-#echo "Enter the nmumber:" $num
+echo "Enter the nmumber:" $num
 read num
 
 if [ $((num%2)) == 0 ]
